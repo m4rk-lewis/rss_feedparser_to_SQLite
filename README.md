@@ -17,7 +17,7 @@ Description: The KRE regional bank has been trending lower in the past hour or s
 New RSS item:<br>
 Title: US sells 5-year notes at 3.665% vs 3.675% WI<br>
 Pub. date: Tue, 28 Mar 2023 17:04:07 GMT<br>
-Description: ulliPrior was 4.109% Bid-to-cover 2.48 vs 2.48 prior Indirects 68.58% vs 69.9% prior Direct 18.2% vs 19.0% prior. This is is a welcome change after yesterdays poor 2-year sale. There was a concession being built into the market for the past few hours so its not a huge surprise. The sale could cap the rally in USD/JPY today.<br>
+Description: Prior was 4.109% Bid-to-cover 2.48 vs 2.48 prior Indirects 68.58% vs 69.9% prior Direct 18.2% vs 19.0% prior. This is is a welcome change after yesterdays poor 2-year sale. There was a concession being built into the market for the past few hours so its not a huge surprise. The sale could cap the rally in USD/JPY today.<br>
 
 -----------------------------------------------------------------<br>
 New RSS item:<br>
